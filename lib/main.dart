@@ -592,7 +592,7 @@ final userName = googleUser.displayName ?? 'Guest'; // 獲取 Google 使用者�
   ' '
 )
 ,
-                    SizedBox(height: 20),
+                    SizedBox(height: 22),
                     Row(
                       children: [
                         Checkbox(
